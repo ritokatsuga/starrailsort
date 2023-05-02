@@ -1,0 +1,104 @@
+<html>
+
+<head>
+  <link rel="shortcut icon" href="src/assets/sr.ico" type="image/x-icon">
+  <link rel="icon" href="src/assets/sr.ico" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="og:site_name" content="Honkai: Star Rail Character Sorter">
+  <meta name="og:description" content="A simple website for sorting Honkai: Star Rail characters in a formatted list.">
+  <title>Honkai: Star Rail Character Sorter</title>
+
+  <link rel="stylesheet" type="text/css" href="src/css/reset.css">
+  <link rel="stylesheet" type="text/css" href="src/css/styles.css">
+
+  <script src="src/js/data.js"></script>
+  <script src="src/js/data/2023-05-02.js"></script>
+  
+  <script src="src/js/html2canvas.min.js"></script>
+  <script src="src/js/lz-string.min.js"></script>
+  <script src="src/js/seedrandom.min.js"></script>
+  <script src="src/js/main.js"></script>
+<!--
+  <link href="/dist/svelte-bundle.css" rel="stylesheet" />
+  <script defer src="/dist/svelte-bundle.js"></script>
+  -->
+</head>
+
+<body>
+<div class="container">
+
+    <div class="progress">
+        <span class="progressbattle"></span>
+        <div class="progressbar">
+            <div class="progressfill"><span class="progresstext"></span></div>
+        </div>
+    </div>
+
+    <div class="sorter">
+        <img src="src/assets/default.jpg" class="left sort image">
+
+        <div class="starting start button">Honkai: Star Rail Character Sorter<br><br>Click to Start!</div>
+        <div class="starting load button">Load <span></span></div>
+
+        <div class="loading button"><div></div><span>Loading...</span></div>
+
+        <div class="sorting tie button">Tie</div>
+        <div class="sorting undo button">Undo</div>
+        <div class="sorting save button">Save Progress</div>
+
+        <div class="finished save button">Generate Result URL</div>
+        <div class="finished getimg button">Generate Image</div>
+        <div class="finished list button">Generate Text List</div>
+
+        <img src="src/assets/default.jpg" class="right sort image">
+
+        <div class="left sort text"><p></p></div>
+        <div class="right sort text"><p></p></div>
+    </div>
+
+    <div class="options"></div>
+    <div class="image selector">Display Images on Result: </div>
+    <div class="time taken"></div>
+    <div class="results"></div>
+
+    <div class="info">
+        <a class="clearsave">Clear Save Data</a>
+        
+        <br><br>
+
+        <p>Sorter website for Honkai: Star Rail characters, with the classic layout.</p>
+        <p>Pick your sources, and hit the Start button.</p>
+        <p>Click on the character you like better from the two, or tie them if you like them equally or don't know them.</p>
+
+        <br>
+
+        <p>Keyboard controls during sorting:<br> H/LeftArrow (pick left), J/DownArrow (undo), K/UpArrow (tie)<br>L/RightArrow (pick right), S (save progress).</p>
+        <p>Before sorting:<br>S/Enter (start sorting) L (load progress).
+        <p>1/2/3 always correspond to the first/second/third buttons.</p>
+        
+        <br>
+
+        <a href="/index-id.html">Pergi ke versi Bahasa Indonesia</a>
+
+        <br><br>
+
+        <p>Maintained by <a href="https://www.ufal.my.id">Ufal Salman</a></p>
+        <p>Originally from <a href="https://tohosort.frelia.my/">execfera's Touhou sorter</a></p>
+        <p>Based on other sorter I worked on, <a href="https://better-nijisort.pages.dev">Better-Nijisort</a></p>
+
+        <br>       
+
+        <p>Latest  changelog:</p>
+        <p>2 May 2023 - Started the project.</p><br>
+        <p><a href="/changelogs.html">Previous changelogs</a></p>
+
+        <br>
+        
+        <p>If you encounter any issues, hit me up <a href="https://github.com/ritokatsuga/starrailsort">here</a>.</p>
+
+        <br>
+    </div>
+</div>
+</body>
+
+</html>

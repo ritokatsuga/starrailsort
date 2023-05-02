@@ -1,0 +1,103 @@
+<html>
+
+<head>
+  <link rel="shortcut icon" href="src/assets/sr.ico" type="image/x-icon">
+  <link rel="icon" href="src/assets/sr.ico" type="image/x-icon">
+  <meta charset="utf-8">
+  <meta name="og:site_name" content="Honkai: Star Rail Character Sorter (Bahasa Indonesia)">
+  <meta name="og:description" content="Sebuah situs sederhana untuk melakukan sorting pada karakter Honkai: Star Rail dalam bentuk daftar.">
+  <title>Honkai: Star Rail Character Sorter (Bahasa Indonesia)</title>
+
+  <link rel="stylesheet" type="text/css" href="src/css/reset.css">
+  <link rel="stylesheet" type="text/css" href="src/css/styles.css">
+
+  <script src="src/js/data.js"></script>
+  <script src="src/js/data-id/2023-05-02.js"></script>
+  
+  <script src="src/js/html2canvas.min.js"></script>
+  <script src="src/js/lz-string.min.js"></script>
+  <script src="src/js/seedrandom.min.js"></script>
+  <script src="src/js/main-id.js"></script>
+<!--
+  <link href="/dist/svelte-bundle.css" rel="stylesheet" />
+  <script defer src="/dist/svelte-bundle.js"></script>
+  -->
+</head>
+
+<body>
+<div class="container">
+
+    <div class="progress">
+        <span class="progressbattle"></span>
+        <div class="progressbar">
+            <div class="progressfill"><span class="progresstext"></span></div>
+        </div>
+    </div>
+
+    <div class="sorter">
+        <img src="src/assets/default.jpg" class="left sort image">
+
+        <div class="starting start button">Honkai: Star Rail Character Sorter<br><br>Ketuk untuk Memulai!</div>
+        <div class="starting load button">Muat <span></span></div>
+
+        <div class="loading button"><div></div><span>Memuat...</span></div>
+
+        <div class="sorting tie button">Abaikan</div>
+        <div class="sorting undo button">Kembali</div>
+        <div class="sorting save button">Simpan Progress</div>
+
+        <div class="finished save button">Buat URL Hasil</div>
+        <div class="finished getimg button">Buat Gambar</div>
+        <div class="finished list button">Buat Daftar Teks</div>
+
+        <img src="src/assets/default.jpg" class="right sort image">
+
+        <div class="left sort text"><p></p></div>
+        <div class="right sort text"><p></p></div>
+    </div>
+
+    <div class="options"></div>
+    <div class="image selector">Tampilkan Gambar pada Hasil: </div>
+    <div class="time taken"></div>
+    <div class="results"></div>
+
+    <div class="info">
+        <a class="clearsave">Hapus Data Tersimpan</a>
+        
+        <br><br>
+
+        <p>Situs sorter untuk karakter Honkai: Star Rail characters, dengan tata letak klasik.</p>
+        <p>PIlih source-mu, dan ketuk tombol Mulai.</p>
+        <p>Ketuk pada karakter yang kamu lebih sukai dari kedua pilihannya, atau abaikan jika kamu menyukai keduanya atau tidak mengenali keduanya.</p>
+
+        <br>
+
+        <p>Kontrol keyboard selama sorting:<br> H/LeftArrow (pilih kiri), J/DownArrow (kembali ke pilihan sebelumnya), K/UpArrow (abaikan)<br>L/RightArrow (pilih kanan), S (simpan progress).</p>
+        <p>Sebelum memulai sorting:<br>S/Enter (mulai sorting) L (muat progress).
+        <p>1/2/3 selalu terkait pada tombol pertama/kedua/ketiga.</p>
+        
+        <br>
+
+        <a href="/">Go to English version</a>
+
+        <br><br>
+
+        <p>Diurus oleh <a href="https://www.ufal.my.id">Ufal Salman</a></p>
+        <p>Bermula dari <a href="https://tohosort.frelia.my/">sorter Touhou milik execfera</a></p>
+        <p>Berdasarkan pada sorter yang juga kubuat, <a href="https://better-nijisort.pages.dev">Better-Nijisort</a></p>
+
+        <br>
+
+        <p>Perubahan terakhir:</p>
+        <p>2 Mei 2023 - Memulai proyek.</p><br>
+        <p><a href="/changelogs-id.html">Perubahan sebelumnya</a></p>
+        <br>
+        
+        <p>Jika kamu menemukan masalah, beritahu aku <a href="https://github.com/ritokatsuga/starrailsort">di sini</a>.</p>
+
+        <br>
+    </div>
+</div>
+</body>
+
+</html>
