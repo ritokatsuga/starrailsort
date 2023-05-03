@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with more classic layout and more filters that based 
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Latest changelog:
-2 May 2023 - Started the project.
+3 May 2023 - Added Dark Mode.
 
 Contributors are open
 

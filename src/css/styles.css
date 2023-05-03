@@ -5,6 +5,11 @@ body {
   color: #000000;
 }
 
+.dark-mode {
+  background-color: rgb(18, 18, 18);
+  color: rgb(235, 235, 235);
+}
+
 .container {
   display: flex;
   flex-flow: column nowrap;
