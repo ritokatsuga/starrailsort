@@ -14,7 +14,6 @@ dataSet[dataSetVersion].options = [
       { name: "Herta Space Station", key: "hss" },
       { name: "Belobog", key: "be" },
       { name: "Xianzhou: The Loufu", key: "xtl" },
-
     ]
   },
   {

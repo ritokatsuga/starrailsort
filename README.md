@@ -1,13 +1,24 @@
 # StarRailSort
-A Honkai: Star Rail sorter with more classic layout and more filters that based on [execfera's Touhou Project character sorter](https://tohosort.frelia.my/) source code.
+A Honkai: Star Rail sorter with classic layout and more filters that based on [execfera's Touhou Project character sorter](https://tohosort.frelia.my/) source code and [better-nijisort's version of Nijisanji liver sorter](https://better-nijisort/pages.dev).
 
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Latest changelog:
-3 May 2023 - Added Dark Mode.
+12 June 2023 - Added new playable and upcoming characters up to Silver Wolf and Fu Xuan.
 
 Contributors are open
 
-Tersedia versi [bahasa Indonesia](https://starrailsort.pages.dev/index-id.html)!
-
 Supports me via [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) or [PayPal (International)](https://paypal.me/ufalsalman)
+
+## Bahasa Indonesia
+
+Sebuah penyortir termutakhirkan untuk karakter Honkai: Star Rail dengan tata letak klasik dan  filter yang lebih banyak yang berdasarkan pada kode sumber [penyortir karakter Touhou Project milik execfera](https://tohosort.frelia.my/) dan [penyortir liver Nijisanji versi better-nijisort](https://better-nijisort/pages.dev).
+
+Kunjungi [starrailsort.pages.dev](https://starrailsort.pages.dev/)
+
+Perubahan terakhir:<br>
+12 Juni 2023 - Menambahkan karakter playable dan mendatang baru, hingga Silver Wolf dan Fu Xuan.
+
+Menerima kontributor.
+
+Dukung saya melalui [Trakteer (Indonesia)](https://trakteer.id/ufalsalman/tip) atau [PayPal (Internasional)](https://paypal.me/ufalsalman)
