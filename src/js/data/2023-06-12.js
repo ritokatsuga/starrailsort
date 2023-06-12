@@ -426,7 +426,6 @@ dataSet[dataSetVersion].characterData = [
     img: "fuxuan.png",
     opts: {
       faction: ['xl'],
-      star: ['5'],
       ct: ['quantum'],
       path: ['tp'],
       female: true,
