@@ -3,8 +3,8 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
-Latest changelog:
-12 June 2023 - Added new playable and upcoming characters up to Silver Wolf and Fu Xuan.
+Latest changelog:<br>
+28 June 2023 - Set Luocha and Yukong as playable
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk karakter Honkai: Star Rail dengan tata let
 Kunjungi [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Perubahan terakhir:<br>
-12 Juni 2023 - Menambahkan karakter playable dan mendatang baru, hingga Silver Wolf dan Fu Xuan.
+28 Juni 2023 - Mengatur Luocha dan Yukong sebagai playable
 
 Menerima kontributor.
 
