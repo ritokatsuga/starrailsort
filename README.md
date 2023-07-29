@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Latest changelog:<br>
-29 June 2023 - Set Blade as playable, added Imbibitor Lunae and Lynx  as new characters, fixing wrong code.
+29 June 2023 - Set Blade as playable, added Imbibitor Lunae and Lynx as new characters, fixing wrong code.
 
 Contributors are open
 
