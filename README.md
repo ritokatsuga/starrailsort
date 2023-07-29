@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Latest changelog:<br>
-28 June 2023 - Set Luocha and Yukong as playable
+29 June 2023 - Set Blade as playable, added Imbibitor Lunae as new characters, fixing wrong code.
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk karakter Honkai: Star Rail dengan tata let
 Kunjungi [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Perubahan terakhir:<br>
-28 Juni 2023 - Mengatur Luocha dan Yukong sebagai playable
+29 Juli 2023 - Mengatur Blade sebagai playable, menambahkan Imbibitor Lunae dan Lynx sebagai karakter baru, memperbaiki kode yang salah.
 
 Menerima kontributor.
 
