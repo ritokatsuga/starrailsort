@@ -1,4 +1,4 @@
-dataSetVersion = "2023-07-29"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2023-09-16"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -149,7 +149,6 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       faction: ['sh'],
       female: true,
-      upcoming: true
     }
   },
   {
@@ -425,7 +424,6 @@ dataSet[dataSetVersion].characterData = [
       ct: ['imaginary'],
       path: ['td'],
       male: true,
-      upcoming: true
     }
   },
   {
@@ -436,6 +434,42 @@ dataSet[dataSetVersion].characterData = [
       star: ['4'],
       ct: ['quantum'],
       path: ['ta'],
+      female: true,
+      upcoming: true
+    }
+  },
+  {
+    name: "Jingliu",
+    img: "jingliu.png",
+    opts: {
+      faction: ['xl'],
+      star: ['5'],
+      ct: ['ice'],
+      path: ['td'],
+      female: true,
+      upcoming: true
+    }
+  },
+  {
+    name: "Topaz & Numby",
+    img: "topaz.png",
+    opts: {
+      faction: ['be'],
+      star: ['5'],
+      ct: ['fire'],
+      path: ['th'],
+      female: true,
+      upcoming: true
+    }
+  },
+  {
+    name: "Guinaifen",
+    img: "guinaifen.png",
+    opts: {
+      faction: ['xl'],
+      star: ['4'],
+      ct: ['fire'],
+      path: ['tn'],
       female: true,
       upcoming: true
     }

@@ -1,11 +1,11 @@
-dataSetVersion = "2023-07-29"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2023-09-16"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
   {
-    name: "Filter by faction",
+    name: "Saring berdasarkan faksi",
     key: "faction",
-    tooltip: "Check this to restrict to characters from certain faction.",
+    tooltip: "Centang ini untuk membatasi karakter dari faksi tertentu.",
     checked: false,
     sub: [
       { name: "Astral Express", key: "ae" },
@@ -16,19 +16,19 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Filter by rarity",
+    name: "Saring berdasarkan rarity",
     key: "star",
-    tooltip: "Check this to restrict to characters from certain rarity.",
+    tooltip: "Centang ini untuk membatasi karakter dari rarity tertentu.",
     checked: false,
     sub: [
-      { name: "5 stars", key: "5" },
-      { name: "4 stars", key: "4" },
+      { name: "Bintang 5", key: "5" },
+      { name: "Bintang 4", key: "4" },
     ]
   },
   {
-    name: "Filter by combat type",
+    name: "Saring berdasarkan tipe bertarung",
     key: "ct",
-    tooltip: "Check this to restrict to characters from certain combat type.",
+    tooltip: "Centang ini untuk membatasi karakter dari tipe bertarung tertentu.",
     checked: false,
     sub: [
       { name: "Quantum", key: "quantum" },
@@ -41,9 +41,9 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Filter by Path",
+    name: "Saring berdasarkan Path",
     key: "path",
-    tooltip: "Check this to restrict to characters from certain Path.",
+    tooltip: "Centang ini untuk membatasi karakter dari rarity Path tertentu.",
     checked: false,
     sub: [
       { name: "The Destruction", key: "td" },
@@ -56,21 +56,21 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Exclude males",
+    name: "Kecualikan laki-laki",
     key: "male",
-    tooltip: "Check this to exclude males.",
+    tooltip: "Centang ini untuk mengecualikan laki-laki.",
     checked: false
   },
   {
-    name: "Exclude females",
+    name: "Kecualikan perempuan",
     key: "female",
-    tooltip: "Check this to exclude females.",
+    tooltip: "Centang ini untuk mengecualikan perempuan.",
     checked: false
   },
   {
-    name: "Exclude upcoming characters",
+    name: "Kecualikan karakter mendatang",
     key: "upcoming",
-    tooltip: "Check this to exclude upcoming/not yet playable characters.",
+    tooltip: "Centang ini untuk mengecualikan karakter mendatang/masih belum dapat dimainkan.",
     checked: true
   }
 ];
@@ -436,6 +436,42 @@ dataSet[dataSetVersion].characterData = [
       star: ['4'],
       ct: ['quantum'],
       path: ['ta'],
+      female: true,
+      upcoming: true
+    }
+  },
+  {
+    name: "Jingliu",
+    img: "jingliu.png",
+    opts: {
+      faction: ['xl'],
+      star: ['5'],
+      ct: ['ice'],
+      path: ['td'],
+      female: true,
+      upcoming: true
+    }
+  },
+  {
+    name: "Topaz & Numby",
+    img: "topaz.png",
+    opts: {
+      faction: ['be'],
+      star: ['5'],
+      ct: ['fire'],
+      path: ['th'],
+      female: true,
+      upcoming: true
+    }
+  },
+  {
+    name: "Guinaifen",
+    img: "guinaifen.png",
+    opts: {
+      faction: ['xl'],
+      star: ['4'],
+      ct: ['fire'],
+      path: ['tn'],
       female: true,
       upcoming: true
     }

@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Latest changelog:<br>
-29 June 2023 - Set Blade as playable, added Imbibitor Lunae and Lynx as new characters, fixing wrong code.
+16 September 2023 - Mengatur Kafka dan Imbibitor Lunae  sebagai playable, menambahkan Jingliu, Topaz & Numby dan Guinaifen sebagai karakter baru, memperbaiki kode yang salah.
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk karakter Honkai: Star Rail dengan tata let
 Kunjungi [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Perubahan terakhir:<br>
-29 Juli 2023 - Mengatur Blade sebagai playable, menambahkan Imbibitor Lunae dan Lynx sebagai karakter baru, memperbaiki kode yang salah.
+16 September 2023 - Mengatur Kafka dan Imbibitor Lunae  sebagai playable, menambahkan Jingliu, Topaz & Numby dan Guinaifen sebagai karakter baru, memperbaiki kode yang salah.
 
 Menerima kontributor.
 
