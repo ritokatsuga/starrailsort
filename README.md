@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Latest changelog:<br>
-16 September 2023 - Mengatur Kafka dan Imbibitor Lunae  sebagai playable, menambahkan Jingliu, Topaz & Numby dan Guinaifen sebagai karakter baru, memperbaiki kode yang salah.
+16 September 2023 - Set Kafka and Imbibitor Lunae as playable, added Jingliu, Topaz & Numby and Guinaifen as new characters, fixing wrong code.
 
 Contributors are open
 
