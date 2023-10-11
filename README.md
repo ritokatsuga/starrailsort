@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Latest changelog:<br>
-10 October 2023 - Set Fu Xuan, Luka and Lynx as playable, added new upcoming characters
+11 October 2023 - Set Jingliu as playable
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk karakter Honkai: Star Rail dengan tata let
 Kunjungi [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Perubahan terakhir:<br>
-10 Oktober 2023 - Mengatur Fu Xuan, Luka dan Lynx sebagai playable, menambahkan karakter baru yang belum dirilis
+11 Oktober 2023 - Mengatur Jingliu sebagai playable
 
 Menerima kontributor.
 
