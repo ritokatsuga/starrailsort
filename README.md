@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Latest changelog:<br>
-11 October 2023 - Set Jingliu as playable
+30 October 2023 - Set Topaz & Numby and Guinaifen as playable
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk karakter Honkai: Star Rail dengan tata let
 Kunjungi [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Perubahan terakhir:<br>
-11 Oktober 2023 - Mengatur Jingliu sebagai playable
+30 Oktober 2023 - Mengatur Topaz & Numby dan Guinaifen sebagai playable
 
 Menerima kontributor.
 
