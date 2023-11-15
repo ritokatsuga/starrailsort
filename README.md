@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 Visit [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Latest changelog:<br>
-10 November 2023 - Adding new characters and factions
+15 November 2023 - Set Huohuo as playable character, new site
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk karakter Honkai: Star Rail dengan tata let
 Kunjungi [starrailsort.pages.dev](https://starrailsort.pages.dev/)
 
 Perubahan terakhir:<br>
-10 November 2023 - Menambahkan karakter dan faksi baru
+15 November 2023 - Mengatur Huohuo sebagai playable, situs baru
 
 Menerima kontributor.
 
