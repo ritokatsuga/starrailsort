@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 Visit [starrail.sorter.my.id](https://starrail.sorter.my.id/)
 
 Latest changelog:<br>
-15 November 2023 - Set Huohuo as playable character, new site
+7 December 2023 - Set Argenti and Hanya as playable character
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk karakter Honkai: Star Rail dengan tata let
 Kunjungi [starrail.sorter.my.id/id](https://starrail.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-15 November 2023 - Mengatur Huohuo sebagai playable, situs baru
+7 Desember 2023 - Mengatur Argenti dan Hanya sebagai playable
 
 Menerima kontributor.
 
