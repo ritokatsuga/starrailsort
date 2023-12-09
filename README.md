@@ -4,7 +4,7 @@ A Honkai: Star Rail sorter with classic layout and more filters that based on [e
 Visit [starrail.sorter.my.id](https://starrail.sorter.my.id/)
 
 Latest changelog:<br>
-9 December 2023 - Adding new options, fixing database for Indonesian version
+9 December 2023 - Separating Trailblazer, adding new options, fixing database for Indonesian version
 
 Contributors are open
 
@@ -17,7 +17,7 @@ Sebuah penyortir termutakhirkan untuk karakter Honkai: Star Rail dengan tata let
 Kunjungi [starrail.sorter.my.id/id](https://starrail.sorter.my.id/id)
 
 Perubahan terakhir:<br>
-9 Desember 2023 - Menambahkan opsi baru, memperbaiki database untuk versi bahasa Indonesia
+9 Desember 2023 - Memisahkan Trailblazer, menambahkan opsi baru, memperbaiki database untuk versi bahasa Indonesia
 
 Menerima kontributor.
 
